@@ -1,2 +1,2 @@
 # Angular-JS-App
-Files fort angular js
+Files for angular js app
