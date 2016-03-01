@@ -1,1 +1,1 @@
-angular.module('com533',['ui.bootstrap']);
+angular.module('ngCribs',['ui.bootstrap']);
